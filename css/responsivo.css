@@ -6,4 +6,8 @@
     .segunda-fileira {
         flex-direction: column;
     }
+    img{
+        height: 300px;
+        width: 245px;
+    }
 }
