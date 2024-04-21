@@ -1,0 +1,19 @@
+@media (max-width: .600px) {
+    .primeira-fileira {
+        flex-direction: column;
+    }
+
+    .segunda-fileira {
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+    .primeira-fileira {
+        flex-direction: column;
+    }
+
+    .segunda-fileira {
+        flex-direction: column;
+    }
+}
